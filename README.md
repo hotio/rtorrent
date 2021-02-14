@@ -4,8 +4,13 @@
 [![GitHub Registry](https://img.shields.io/badge/github-registry-ffb64c?style=flat-square&logo=github&logoColor=white&labelColor=757575)](https://github.com/orgs/hotio/packages/container/package/rflood)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hotio/rflood?color=ffb64c&style=flat-square&label=pulls&logo=docker&logoColor=white&labelColor=757575)](https://hub.docker.com/r/hotio/rflood)
 [![Discord](https://img.shields.io/discord/610068305893523457?style=flat-square&color=ffb64c&label=discord&logo=discord&logoColor=white&labelColor=757575)](https://hotio.dev/discord)
-[![Upstream](https://img.shields.io/badge/upstream-project-ffb64c?style=flat-square&labelColor=757575)](https://github.com/jesec/flood)
+[![Upstream Flood](https://img.shields.io/badge/upstream-flood-ffb64c?style=flat-square&labelColor=757575)](https://github.com/jesec/flood)
+[![Upstream rTorrent](https://img.shields.io/badge/upstream-rtorrent-ffb64c?style=flat-square&labelColor=757575)](https://github.com/jesec/rtorrent)
 [![Website](https://img.shields.io/badge/website-hotio.dev-ffb64c?style=flat-square&labelColor=757575)](https://hotio.dev/containers/rflood)
+
+## What is this?
+
+A docker image with rTorrent and the Flood UI, also optional WireGuard VPN support.
 
 ## Starting the container
 
