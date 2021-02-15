@@ -115,7 +115,7 @@ services:
       - /<host_folder_config>:/config
     cap_add:
       - NET_ADMIN
-    sysctl:
+    sysctls:
       - net.ipv4.conf.all.src_valid_mark=1
       - net.ipv6.conf.all.disable_ipv6=0
 ```
