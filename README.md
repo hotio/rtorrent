@@ -65,8 +65,8 @@ Tested Operating Systems:
 * Ubuntu 18.04
 * Ubuntu 20.04
 * Unraid 6.8.3
-* Unraid 6.9 RC1
-* macOS Big Sur 11.1 Apple M1
+* Unraid 6.9 RC2
+* macOS Big Sur 11.2.1 Apple M1
 
 CLI:
 
